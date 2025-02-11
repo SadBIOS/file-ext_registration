@@ -1,6 +1,6 @@
 main = main
 icon_resource = icon_assy.rc
-icon_obj = icon_obj.icon_obj
+icon_obj = icon_obj
 output = shell_ext_reg.exe
 dll = reg_loader
 
